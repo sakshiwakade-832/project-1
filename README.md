@@ -1,2 +1,5 @@
-# project-1
-Stone paper scissor game java
+# Java projects
+Stone paper scissor game 
+TicTacToe game 
+Connect four game
+Make a guess game
